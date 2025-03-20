@@ -9,7 +9,7 @@ Desarrollador de software con experiencia en desarrollo backend usando Spring Bo
 ## 📫 Contacto
 
 [![EMAIL](https://img.shields.io/badge/Email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=white&color=0078D4)](mailto:juanitopacholapaz@gmail.com) 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/juan-sebastian-medina-pinto/) 
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/juan-sebastian-medina-pinto-586767243-software-engineer/) 
 
 ## 💻 Tech Stack
 
